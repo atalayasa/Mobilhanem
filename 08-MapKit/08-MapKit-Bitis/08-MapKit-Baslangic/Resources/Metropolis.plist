@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Ankara</string>
+		<key>population</key>
+		<string>Ankara Nüfusu 5,504 milyondur.</string>
+		<key>latitude</key>
+		<real>39.933365</real>
+		<key>longitude</key>
+		<real>32.859741</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>İstanbul</string>
+		<key>population</key>
+		<string>İstanbul Nüfusu 15,52 milyondur.</string>
+		<key>latitude</key>
+		<real>41.00824</real>
+		<key>longitude</key>
+		<real>28.978359</real>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>İzmir</string>
+		<key>population</key>
+		<string>İzmir Nüfusu 4,321 milyondur.</string>
+		<key>latitude</key>
+		<real>38.423733</real>
+		<key>longitude</key>
+		<real>27.142826</real>
+	</dict>
+</array>
+</plist>
