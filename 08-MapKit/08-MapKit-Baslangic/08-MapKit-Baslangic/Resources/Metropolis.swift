@@ -36,3 +36,5 @@ class Metropolis: NSObject {
         return places
     }
 }
+
+extension Metropolis: MKAnnotation {  }

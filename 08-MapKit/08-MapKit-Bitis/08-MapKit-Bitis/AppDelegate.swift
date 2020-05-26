@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  08-MapKit-Baslangic
+//  08-MapKit-Bitis
 //
 //  Created by Atalay Aşa on 26.05.2020.
 //  Copyright © 2020 Atalay Asa. All rights reserved.

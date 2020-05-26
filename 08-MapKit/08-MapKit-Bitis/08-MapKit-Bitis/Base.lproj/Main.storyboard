@@ -2,7 +2,6 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
-        <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -11,31 +10,31 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_8_MapKit_Baslangic" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_8_MapKit_Bitis" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="OlV-ga-ZaU">
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="Az9-iy-sSG">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </mapView>
                         </subviews>
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
-                            <constraint firstAttribute="bottom" secondItem="OlV-ga-ZaU" secondAttribute="bottom" id="Ehd-Ea-Bzt"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="OlV-ga-ZaU" secondAttribute="trailing" id="USa-B6-e7v"/>
-                            <constraint firstItem="OlV-ga-ZaU" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="XcB-Z6-nZl"/>
-                            <constraint firstItem="OlV-ga-ZaU" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="aqM-HE-N16"/>
+                            <constraint firstItem="Az9-iy-sSG" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="389-DY-XZS"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Az9-iy-sSG" secondAttribute="trailing" id="Mhw-3L-iZL"/>
+                            <constraint firstItem="Az9-iy-sSG" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="XoY-qM-7S8"/>
+                            <constraint firstAttribute="bottom" secondItem="Az9-iy-sSG" secondAttribute="bottom" id="yHM-gF-Tet"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="mapView" destination="OlV-ga-ZaU" id="yb2-3y-Zba"/>
+                        <outlet property="mapView" destination="Az9-iy-sSG" id="EHd-xg-Phs"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="137.68115942028987" y="138.61607142857142"/>
+            <point key="canvasLocation" x="139" y="139"/>
         </scene>
     </scenes>
 </document>

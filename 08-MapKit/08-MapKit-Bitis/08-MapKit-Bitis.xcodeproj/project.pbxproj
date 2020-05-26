@@ -7,31 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4751CEFB247CF5F000881518 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CEFA247CF5F000881518 /* AppDelegate.swift */; };
-		4751CEFD247CF5F000881518 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CEFC247CF5F000881518 /* SceneDelegate.swift */; };
-		4751CEFF247CF5F000881518 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CEFE247CF5F000881518 /* ViewController.swift */; };
-		4751CF02247CF5F000881518 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF00247CF5F000881518 /* Main.storyboard */; };
-		4751CF04247CF5F400881518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF03247CF5F400881518 /* Assets.xcassets */; };
-		4751CF07247CF5F400881518 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF05247CF5F400881518 /* LaunchScreen.storyboard */; };
-		4751CF10247CF70C00881518 /* Metropolis.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF0F247CF70C00881518 /* Metropolis.plist */; };
-		4751CF12247CF71B00881518 /* Metropolis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CF11247CF71B00881518 /* Metropolis.swift */; };
+		4751CF20247CF9EE00881518 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CF1F247CF9EE00881518 /* AppDelegate.swift */; };
+		4751CF22247CF9EE00881518 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CF21247CF9EE00881518 /* SceneDelegate.swift */; };
+		4751CF24247CF9EE00881518 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CF23247CF9EE00881518 /* ViewController.swift */; };
+		4751CF27247CF9EE00881518 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF25247CF9EE00881518 /* Main.storyboard */; };
+		4751CF29247CF9EF00881518 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF28247CF9EF00881518 /* Assets.xcassets */; };
+		4751CF2C247CF9EF00881518 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF2A247CF9EF00881518 /* LaunchScreen.storyboard */; };
+		4751CF36247CF9FD00881518 /* Metropolis.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4751CF34247CF9FD00881518 /* Metropolis.plist */; };
+		4751CF37247CF9FD00881518 /* Metropolis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4751CF35247CF9FD00881518 /* Metropolis.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4751CEF7247CF5F000881518 /* 08-MapKit-Baslangic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "08-MapKit-Baslangic.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4751CEFA247CF5F000881518 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4751CEFC247CF5F000881518 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		4751CEFE247CF5F000881518 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		4751CF01247CF5F000881518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4751CF03247CF5F400881518 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		4751CF06247CF5F400881518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		4751CF08247CF5F400881518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4751CF0F247CF70C00881518 /* Metropolis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Metropolis.plist; sourceTree = "<group>"; };
-		4751CF11247CF71B00881518 /* Metropolis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metropolis.swift; sourceTree = "<group>"; };
+		4751CF1C247CF9EE00881518 /* 08-MapKit-Bitis.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "08-MapKit-Bitis.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4751CF1F247CF9EE00881518 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4751CF21247CF9EE00881518 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		4751CF23247CF9EE00881518 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4751CF26247CF9EE00881518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4751CF28247CF9EF00881518 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4751CF2B247CF9EF00881518 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4751CF2D247CF9EF00881518 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4751CF34247CF9FD00881518 /* Metropolis.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Metropolis.plist; sourceTree = "<group>"; };
+		4751CF35247CF9FD00881518 /* Metropolis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Metropolis.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		4751CEF4247CF5F000881518 /* Frameworks */ = {
+		4751CF19247CF9EE00881518 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,82 +41,83 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		4751CEEE247CF5F000881518 = {
+		4751CF13247CF9EE00881518 = {
 			isa = PBXGroup;
 			children = (
-				4751CEF9247CF5F000881518 /* 08-MapKit-Baslangic */,
-				4751CEF8247CF5F000881518 /* Products */,
+				4751CF1E247CF9EE00881518 /* 08-MapKit-Bitis */,
+				4751CF1D247CF9EE00881518 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		4751CEF8247CF5F000881518 /* Products */ = {
+		4751CF1D247CF9EE00881518 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4751CEF7247CF5F000881518 /* 08-MapKit-Baslangic.app */,
+				4751CF1C247CF9EE00881518 /* 08-MapKit-Bitis.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		4751CEF9247CF5F000881518 /* 08-MapKit-Baslangic */ = {
+		4751CF1E247CF9EE00881518 /* 08-MapKit-Bitis */ = {
 			isa = PBXGroup;
 			children = (
-				4751CF0E247CF70500881518 /* Resources */,
-				4751CEFA247CF5F000881518 /* AppDelegate.swift */,
-				4751CEFC247CF5F000881518 /* SceneDelegate.swift */,
-				4751CEFE247CF5F000881518 /* ViewController.swift */,
-				4751CF00247CF5F000881518 /* Main.storyboard */,
-				4751CF03247CF5F400881518 /* Assets.xcassets */,
-				4751CF05247CF5F400881518 /* LaunchScreen.storyboard */,
-				4751CF08247CF5F400881518 /* Info.plist */,
+				4751CF33247CF9FD00881518 /* Resources */,
+				4751CF1F247CF9EE00881518 /* AppDelegate.swift */,
+				4751CF21247CF9EE00881518 /* SceneDelegate.swift */,
+				4751CF23247CF9EE00881518 /* ViewController.swift */,
+				4751CF25247CF9EE00881518 /* Main.storyboard */,
+				4751CF28247CF9EF00881518 /* Assets.xcassets */,
+				4751CF2A247CF9EF00881518 /* LaunchScreen.storyboard */,
+				4751CF2D247CF9EF00881518 /* Info.plist */,
 			);
-			path = "08-MapKit-Baslangic";
+			path = "08-MapKit-Bitis";
 			sourceTree = "<group>";
 		};
-		4751CF0E247CF70500881518 /* Resources */ = {
+		4751CF33247CF9FD00881518 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				4751CF0F247CF70C00881518 /* Metropolis.plist */,
-				4751CF11247CF71B00881518 /* Metropolis.swift */,
+				4751CF34247CF9FD00881518 /* Metropolis.plist */,
+				4751CF35247CF9FD00881518 /* Metropolis.swift */,
 			);
-			path = Resources;
+			name = Resources;
+			path = "../../08-MapKit-Baslangic/08-MapKit-Baslangic/Resources";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		4751CEF6247CF5F000881518 /* 08-MapKit-Baslangic */ = {
+		4751CF1B247CF9EE00881518 /* 08-MapKit-Bitis */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4751CF0B247CF5F400881518 /* Build configuration list for PBXNativeTarget "08-MapKit-Baslangic" */;
+			buildConfigurationList = 4751CF30247CF9EF00881518 /* Build configuration list for PBXNativeTarget "08-MapKit-Bitis" */;
 			buildPhases = (
-				4751CEF3247CF5F000881518 /* Sources */,
-				4751CEF4247CF5F000881518 /* Frameworks */,
-				4751CEF5247CF5F000881518 /* Resources */,
+				4751CF18247CF9EE00881518 /* Sources */,
+				4751CF19247CF9EE00881518 /* Frameworks */,
+				4751CF1A247CF9EE00881518 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "08-MapKit-Baslangic";
-			productName = "08-MapKit-Baslangic";
-			productReference = 4751CEF7247CF5F000881518 /* 08-MapKit-Baslangic.app */;
+			name = "08-MapKit-Bitis";
+			productName = "08-MapKit-Bitis";
+			productReference = 4751CF1C247CF9EE00881518 /* 08-MapKit-Bitis.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		4751CEEF247CF5F000881518 /* Project object */ = {
+		4751CF14247CF9EE00881518 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = "Atalay Asa";
 				TargetAttributes = {
-					4751CEF6247CF5F000881518 = {
+					4751CF1B247CF9EE00881518 = {
 						CreatedOnToolsVersion = 11.3;
 					};
 				};
 			};
-			buildConfigurationList = 4751CEF2247CF5F000881518 /* Build configuration list for PBXProject "08-MapKit-Baslangic" */;
+			buildConfigurationList = 4751CF17247CF9EE00881518 /* Build configuration list for PBXProject "08-MapKit-Bitis" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,57 +125,57 @@
 				en,
 				Base,
 			);
-			mainGroup = 4751CEEE247CF5F000881518;
-			productRefGroup = 4751CEF8247CF5F000881518 /* Products */;
+			mainGroup = 4751CF13247CF9EE00881518;
+			productRefGroup = 4751CF1D247CF9EE00881518 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				4751CEF6247CF5F000881518 /* 08-MapKit-Baslangic */,
+				4751CF1B247CF9EE00881518 /* 08-MapKit-Bitis */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		4751CEF5247CF5F000881518 /* Resources */ = {
+		4751CF1A247CF9EE00881518 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4751CF07247CF5F400881518 /* LaunchScreen.storyboard in Resources */,
-				4751CF04247CF5F400881518 /* Assets.xcassets in Resources */,
-				4751CF02247CF5F000881518 /* Main.storyboard in Resources */,
-				4751CF10247CF70C00881518 /* Metropolis.plist in Resources */,
+				4751CF36247CF9FD00881518 /* Metropolis.plist in Resources */,
+				4751CF2C247CF9EF00881518 /* LaunchScreen.storyboard in Resources */,
+				4751CF29247CF9EF00881518 /* Assets.xcassets in Resources */,
+				4751CF27247CF9EE00881518 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		4751CEF3247CF5F000881518 /* Sources */ = {
+		4751CF18247CF9EE00881518 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4751CF12247CF71B00881518 /* Metropolis.swift in Sources */,
-				4751CEFF247CF5F000881518 /* ViewController.swift in Sources */,
-				4751CEFB247CF5F000881518 /* AppDelegate.swift in Sources */,
-				4751CEFD247CF5F000881518 /* SceneDelegate.swift in Sources */,
+				4751CF24247CF9EE00881518 /* ViewController.swift in Sources */,
+				4751CF37247CF9FD00881518 /* Metropolis.swift in Sources */,
+				4751CF20247CF9EE00881518 /* AppDelegate.swift in Sources */,
+				4751CF22247CF9EE00881518 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		4751CF00247CF5F000881518 /* Main.storyboard */ = {
+		4751CF25247CF9EE00881518 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4751CF01247CF5F000881518 /* Base */,
+				4751CF26247CF9EE00881518 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		4751CF05247CF5F400881518 /* LaunchScreen.storyboard */ = {
+		4751CF2A247CF9EF00881518 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				4751CF06247CF5F400881518 /* Base */,
+				4751CF2B247CF9EF00881518 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -182,7 +183,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		4751CF09247CF5F400881518 /* Debug */ = {
+		4751CF2E247CF9EF00881518 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -242,7 +243,7 @@
 			};
 			name = Debug;
 		};
-		4751CF0A247CF5F400881518 /* Release */ = {
+		4751CF2F247CF9EF00881518 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -296,39 +297,39 @@
 			};
 			name = Release;
 		};
-		4751CF0C247CF5F400881518 /* Debug */ = {
+		4751CF31247CF9EF00881518 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XBXBJNJ6HY;
-				INFOPLIST_FILE = "08-MapKit-Baslangic/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "08-MapKit-Bitis/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.atalayasa.-8-MapKit-Baslangic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.atalayasa.-8-MapKit-Bitis";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		4751CF0D247CF5F400881518 /* Release */ = {
+		4751CF32247CF9EF00881518 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = XBXBJNJ6HY;
-				INFOPLIST_FILE = "08-MapKit-Baslangic/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				CODE_SIGN_STYLE = Manual;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "08-MapKit-Bitis/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.atalayasa.-8-MapKit-Baslangic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.atalayasa.-8-MapKit-Bitis";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -337,25 +338,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4751CEF2247CF5F000881518 /* Build configuration list for PBXProject "08-MapKit-Baslangic" */ = {
+		4751CF17247CF9EE00881518 /* Build configuration list for PBXProject "08-MapKit-Bitis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4751CF09247CF5F400881518 /* Debug */,
-				4751CF0A247CF5F400881518 /* Release */,
+				4751CF2E247CF9EF00881518 /* Debug */,
+				4751CF2F247CF9EF00881518 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		4751CF0B247CF5F400881518 /* Build configuration list for PBXNativeTarget "08-MapKit-Baslangic" */ = {
+		4751CF30247CF9EF00881518 /* Build configuration list for PBXNativeTarget "08-MapKit-Bitis" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4751CF0C247CF5F400881518 /* Debug */,
-				4751CF0D247CF5F400881518 /* Release */,
+				4751CF31247CF9EF00881518 /* Debug */,
+				4751CF32247CF9EF00881518 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 4751CEEF247CF5F000881518 /* Project object */;
+	rootObject = 4751CF14247CF9EE00881518 /* Project object */;
 }
